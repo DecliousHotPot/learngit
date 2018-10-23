@@ -1,5 +1,3 @@
-Please let me fund u!!!
-I dont wanna to lose u.
-Please !!!!!
-Please !!!!!!!!
-ok
+First 
+Git is a version control system
+Git is free software
